@@ -1,0 +1,9 @@
+C:\Users\Ranjodh\Desktop\bootcamp\project0\appDAL\bin\Debug\appDAL.dll
+C:\Users\Ranjodh\Desktop\bootcamp\project0\appDAL\bin\Debug\appDAL.pdb
+C:\Users\Ranjodh\Desktop\bootcamp\project0\appDAL\bin\Debug\Entities.dll
+C:\Users\Ranjodh\Desktop\bootcamp\project0\appDAL\bin\Debug\Entities.pdb
+C:\Users\Ranjodh\Desktop\bootcamp\project0\appDAL\obj\Debug\appDAL.csprojAssemblyReference.cache
+C:\Users\Ranjodh\Desktop\bootcamp\project0\appDAL\obj\Debug\appDAL.csproj.CoreCompileInputs.cache
+C:\Users\Ranjodh\Desktop\bootcamp\project0\appDAL\obj\Debug\appDAL.csproj.CopyComplete
+C:\Users\Ranjodh\Desktop\bootcamp\project0\appDAL\obj\Debug\appDAL.dll
+C:\Users\Ranjodh\Desktop\bootcamp\project0\appDAL\obj\Debug\appDAL.pdb

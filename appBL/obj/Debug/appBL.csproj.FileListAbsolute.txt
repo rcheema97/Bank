@@ -1,0 +1,11 @@
+C:\Users\Ranjodh\Desktop\bootcamp\project0\appBL\bin\Debug\appBL.dll
+C:\Users\Ranjodh\Desktop\bootcamp\project0\appBL\bin\Debug\appBL.pdb
+C:\Users\Ranjodh\Desktop\bootcamp\project0\appBL\bin\Debug\appDAL.dll
+C:\Users\Ranjodh\Desktop\bootcamp\project0\appBL\bin\Debug\Entities.dll
+C:\Users\Ranjodh\Desktop\bootcamp\project0\appBL\bin\Debug\appDAL.pdb
+C:\Users\Ranjodh\Desktop\bootcamp\project0\appBL\bin\Debug\Entities.pdb
+C:\Users\Ranjodh\Desktop\bootcamp\project0\appBL\obj\Debug\appBL.csprojAssemblyReference.cache
+C:\Users\Ranjodh\Desktop\bootcamp\project0\appBL\obj\Debug\appBL.csproj.CoreCompileInputs.cache
+C:\Users\Ranjodh\Desktop\bootcamp\project0\appBL\obj\Debug\appBL.csproj.CopyComplete
+C:\Users\Ranjodh\Desktop\bootcamp\project0\appBL\obj\Debug\appBL.dll
+C:\Users\Ranjodh\Desktop\bootcamp\project0\appBL\obj\Debug\appBL.pdb

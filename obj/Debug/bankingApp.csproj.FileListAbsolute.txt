@@ -1,0 +1,14 @@
+C:\Users\Ranjodh\Desktop\bootcamp\project0\project0\bin\Debug\project0.exe
+C:\Users\Ranjodh\Desktop\bootcamp\project0\project0\bin\Debug\Entities.dll
+C:\Users\Ranjodh\Desktop\bootcamp\project0\project0\bin\Debug\appBL.dll
+C:\Users\Ranjodh\Desktop\bootcamp\project0\project0\bin\Debug\appDAL.dll
+C:\Users\Ranjodh\Desktop\bootcamp\project0\project0\bin\Debug\project0.exe.config
+C:\Users\Ranjodh\Desktop\bootcamp\project0\project0\bin\Debug\project0.pdb
+C:\Users\Ranjodh\Desktop\bootcamp\project0\project0\bin\Debug\appBL.pdb
+C:\Users\Ranjodh\Desktop\bootcamp\project0\project0\bin\Debug\Entities.pdb
+C:\Users\Ranjodh\Desktop\bootcamp\project0\project0\bin\Debug\appDAL.pdb
+C:\Users\Ranjodh\Desktop\bootcamp\project0\project0\obj\Debug\bankingApp.csprojAssemblyReference.cache
+C:\Users\Ranjodh\Desktop\bootcamp\project0\project0\obj\Debug\bankingApp.csproj.CoreCompileInputs.cache
+C:\Users\Ranjodh\Desktop\bootcamp\project0\project0\obj\Debug\bankingApp.csproj.CopyComplete
+C:\Users\Ranjodh\Desktop\bootcamp\project0\project0\obj\Debug\project0.exe
+C:\Users\Ranjodh\Desktop\bootcamp\project0\project0\obj\Debug\project0.pdb
